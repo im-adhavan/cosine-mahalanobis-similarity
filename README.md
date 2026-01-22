@@ -79,8 +79,11 @@ These results reinforce the importance of metric choice as a modeling decision, 
 ## Repository Structure
 .
 ├── cosinemahalanobi.ipynb # Main analysis notebook
+
 ├── requirements.txt # Python dependencies
+
 ├── .gitignore
+
 └── README.md
 
 
